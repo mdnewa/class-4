@@ -1,0 +1,20 @@
+.class1{
+    text-align: center;
+    color: aqua;
+    font-family: cursive;
+    background-color: antiquewhite;
+}
+p{
+    text-align: justify;
+    width: 80%;
+}
+#id1{
+    background-image:url(image/nature.jpg);
+}
+a{
+    text-decoration: none;
+}
+#id2{
+    text-shadow: 1, -1px, 2,red, 3;
+    text-align: center;
+}
